@@ -21,7 +21,7 @@
     notes: 'Created by Ansible'
     vcenter_hostname: vc65.labvmware.local
     vcenter_user: administrator@vsphere.local
-    vcenter_pass: Espoir@2012
+    vcenter_pass: Espoir@2019
     datastore: vsanDatastore
     network: VM Network
     memory: 10
